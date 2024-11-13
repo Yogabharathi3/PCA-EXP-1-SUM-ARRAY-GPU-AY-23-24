@@ -1,6 +1,6 @@
 # PCA : EXP-1  SUM ARRAY GPU
 
-<h3>Enter Your Name : Yogabharathi S A</h3>
+<h3>Enter Your Name : Yogabharathi S</h3>
 
 <h3>ENTER Your Register No : 212222230179</h3>
 
